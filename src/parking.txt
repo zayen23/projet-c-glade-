@@ -1,0 +1,3 @@
+NASR;2;60;100;122,000000;Sous sol;Ouvert
+centre ville;3;322;12;12,000000;Fermé;Sous sol
+SOUSA;4;200;29;12,000000;Fermé;Sous sol
